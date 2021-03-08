@@ -1,5 +1,5 @@
 {
-  "fbMe": [
+  "fbMe":
     {
         "cellInfo" : [
             {
@@ -79,6 +79,6 @@
                 "title" : "Log Out"
             }
         ]
-    },
-  ]
+    }
+
 }
