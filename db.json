@@ -58,19 +58,19 @@
             {
                 "section" : 3,
                 "cellType" : 1,
-                "imgName" : "fb_settings"
+                "imgName" : "fb_settings",
                 "title" : "Settings"
             },
             {
                 "section" : 3,
                 "cellType" : 1,
-                "imgName" : "fb_privacy_shortcuts"
+                "imgName" : "fb_privacy_shortcuts",
                 "title" : "Privacy Shortcuts"
             },
             {
                 "section" : 3,
                 "cellType" : 1,
-                "imgName" : "fb_help_and_support"
+                "imgName" : "fb_help_and_support",
                 "title" : "Help and Support"
             },
             {
